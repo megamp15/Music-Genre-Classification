@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+features_30_sec.csv
+features_3_sec.csv
+mnist_train_100.csv
+mnist_valid_10.csv
+tmp.py
